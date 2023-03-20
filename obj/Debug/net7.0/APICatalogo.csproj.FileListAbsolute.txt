@@ -1,0 +1,86 @@
+/home/RogerAlbuquerque/Desktop/Documentos para vagas/testes C#/APICatalogo/bin/Debug/net7.0/appsettings.Development.json
+/home/RogerAlbuquerque/Desktop/Documentos para vagas/testes C#/APICatalogo/bin/Debug/net7.0/appsettings.json
+/home/RogerAlbuquerque/Desktop/Documentos para vagas/testes C#/APICatalogo/bin/Debug/net7.0/APICatalogo
+/home/RogerAlbuquerque/Desktop/Documentos para vagas/testes C#/APICatalogo/bin/Debug/net7.0/APICatalogo.deps.json
+/home/RogerAlbuquerque/Desktop/Documentos para vagas/testes C#/APICatalogo/bin/Debug/net7.0/APICatalogo.runtimeconfig.json
+/home/RogerAlbuquerque/Desktop/Documentos para vagas/testes C#/APICatalogo/bin/Debug/net7.0/APICatalogo.dll
+/home/RogerAlbuquerque/Desktop/Documentos para vagas/testes C#/APICatalogo/bin/Debug/net7.0/APICatalogo.pdb
+/home/RogerAlbuquerque/Desktop/Documentos para vagas/testes C#/APICatalogo/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/home/RogerAlbuquerque/Desktop/Documentos para vagas/testes C#/APICatalogo/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/home/RogerAlbuquerque/Desktop/Documentos para vagas/testes C#/APICatalogo/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/RogerAlbuquerque/Desktop/Documentos para vagas/testes C#/APICatalogo/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/RogerAlbuquerque/Desktop/Documentos para vagas/testes C#/APICatalogo/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/RogerAlbuquerque/Desktop/Documentos para vagas/testes C#/APICatalogo/obj/Debug/net7.0/APICatalogo.csproj.AssemblyReference.cache
+/home/RogerAlbuquerque/Desktop/Documentos para vagas/testes C#/APICatalogo/obj/Debug/net7.0/APICatalogo.GeneratedMSBuildEditorConfig.editorconfig
+/home/RogerAlbuquerque/Desktop/Documentos para vagas/testes C#/APICatalogo/obj/Debug/net7.0/APICatalogo.AssemblyInfoInputs.cache
+/home/RogerAlbuquerque/Desktop/Documentos para vagas/testes C#/APICatalogo/obj/Debug/net7.0/APICatalogo.AssemblyInfo.cs
+/home/RogerAlbuquerque/Desktop/Documentos para vagas/testes C#/APICatalogo/obj/Debug/net7.0/APICatalogo.csproj.CoreCompileInputs.cache
+/home/RogerAlbuquerque/Desktop/Documentos para vagas/testes C#/APICatalogo/obj/Debug/net7.0/APICatalogo.MvcApplicationPartsAssemblyInfo.cs
+/home/RogerAlbuquerque/Desktop/Documentos para vagas/testes C#/APICatalogo/obj/Debug/net7.0/APICatalogo.MvcApplicationPartsAssemblyInfo.cache
+/home/RogerAlbuquerque/Desktop/Documentos para vagas/testes C#/APICatalogo/obj/Debug/net7.0/staticwebassets/msbuild.APICatalogo.Microsoft.AspNetCore.StaticWebAssets.props
+/home/RogerAlbuquerque/Desktop/Documentos para vagas/testes C#/APICatalogo/obj/Debug/net7.0/staticwebassets/msbuild.build.APICatalogo.props
+/home/RogerAlbuquerque/Desktop/Documentos para vagas/testes C#/APICatalogo/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.APICatalogo.props
+/home/RogerAlbuquerque/Desktop/Documentos para vagas/testes C#/APICatalogo/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.APICatalogo.props
+/home/RogerAlbuquerque/Desktop/Documentos para vagas/testes C#/APICatalogo/obj/Debug/net7.0/staticwebassets.pack.json
+/home/RogerAlbuquerque/Desktop/Documentos para vagas/testes C#/APICatalogo/obj/Debug/net7.0/staticwebassets.build.json
+/home/RogerAlbuquerque/Desktop/Documentos para vagas/testes C#/APICatalogo/obj/Debug/net7.0/staticwebassets.development.json
+/home/RogerAlbuquerque/Desktop/Documentos para vagas/testes C#/APICatalogo/obj/Debug/net7.0/scopedcss/bundle/APICatalogo.styles.css
+/home/RogerAlbuquerque/Desktop/Documentos para vagas/testes C#/APICatalogo/obj/Debug/net7.0/APICatalogo.csproj.CopyComplete
+/home/RogerAlbuquerque/Desktop/Documentos para vagas/testes C#/APICatalogo/obj/Debug/net7.0/APICatalogo.dll
+/home/RogerAlbuquerque/Desktop/Documentos para vagas/testes C#/APICatalogo/obj/Debug/net7.0/refint/APICatalogo.dll
+/home/RogerAlbuquerque/Desktop/Documentos para vagas/testes C#/APICatalogo/obj/Debug/net7.0/APICatalogo.pdb
+/home/RogerAlbuquerque/Desktop/Documentos para vagas/testes C#/APICatalogo/obj/Debug/net7.0/APICatalogo.genruntimeconfig.cache
+/home/RogerAlbuquerque/Desktop/Documentos para vagas/testes C#/APICatalogo/obj/Debug/net7.0/ref/APICatalogo.dll
+/home/RogerAlbuquerque/Desktop/Documentos para vagas/testes C#/APICatalogo/bin/Debug/net7.0/Humanizer.dll
+/home/RogerAlbuquerque/Desktop/Documentos para vagas/testes C#/APICatalogo/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/home/RogerAlbuquerque/Desktop/Documentos para vagas/testes C#/APICatalogo/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/RogerAlbuquerque/Desktop/Documentos para vagas/testes C#/APICatalogo/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/RogerAlbuquerque/Desktop/Documentos para vagas/testes C#/APICatalogo/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/RogerAlbuquerque/Desktop/Documentos para vagas/testes C#/APICatalogo/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/home/RogerAlbuquerque/Desktop/Documentos para vagas/testes C#/APICatalogo/bin/Debug/net7.0/Mono.TextTemplating.dll
+/home/RogerAlbuquerque/Desktop/Documentos para vagas/testes C#/APICatalogo/bin/Debug/net7.0/MySqlConnector.dll
+/home/RogerAlbuquerque/Desktop/Documentos para vagas/testes C#/APICatalogo/bin/Debug/net7.0/Pomelo.EntityFrameworkCore.MySql.dll
+/home/RogerAlbuquerque/Desktop/Documentos para vagas/testes C#/APICatalogo/bin/Debug/net7.0/System.CodeDom.dll
+/home/RogerAlbuquerque/Desktop/Documentos_para_vagas/testes_C#/APICatalogo/bin/Debug/net7.0/appsettings.Development.json
+/home/RogerAlbuquerque/Desktop/Documentos_para_vagas/testes_C#/APICatalogo/bin/Debug/net7.0/appsettings.json
+/home/RogerAlbuquerque/Desktop/Documentos_para_vagas/testes_C#/APICatalogo/bin/Debug/net7.0/APICatalogo
+/home/RogerAlbuquerque/Desktop/Documentos_para_vagas/testes_C#/APICatalogo/bin/Debug/net7.0/APICatalogo.deps.json
+/home/RogerAlbuquerque/Desktop/Documentos_para_vagas/testes_C#/APICatalogo/bin/Debug/net7.0/APICatalogo.runtimeconfig.json
+/home/RogerAlbuquerque/Desktop/Documentos_para_vagas/testes_C#/APICatalogo/bin/Debug/net7.0/APICatalogo.dll
+/home/RogerAlbuquerque/Desktop/Documentos_para_vagas/testes_C#/APICatalogo/bin/Debug/net7.0/APICatalogo.pdb
+/home/RogerAlbuquerque/Desktop/Documentos_para_vagas/testes_C#/APICatalogo/bin/Debug/net7.0/Humanizer.dll
+/home/RogerAlbuquerque/Desktop/Documentos_para_vagas/testes_C#/APICatalogo/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/home/RogerAlbuquerque/Desktop/Documentos_para_vagas/testes_C#/APICatalogo/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/home/RogerAlbuquerque/Desktop/Documentos_para_vagas/testes_C#/APICatalogo/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/RogerAlbuquerque/Desktop/Documentos_para_vagas/testes_C#/APICatalogo/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/RogerAlbuquerque/Desktop/Documentos_para_vagas/testes_C#/APICatalogo/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/RogerAlbuquerque/Desktop/Documentos_para_vagas/testes_C#/APICatalogo/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/home/RogerAlbuquerque/Desktop/Documentos_para_vagas/testes_C#/APICatalogo/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/home/RogerAlbuquerque/Desktop/Documentos_para_vagas/testes_C#/APICatalogo/bin/Debug/net7.0/Mono.TextTemplating.dll
+/home/RogerAlbuquerque/Desktop/Documentos_para_vagas/testes_C#/APICatalogo/bin/Debug/net7.0/MySqlConnector.dll
+/home/RogerAlbuquerque/Desktop/Documentos_para_vagas/testes_C#/APICatalogo/bin/Debug/net7.0/Pomelo.EntityFrameworkCore.MySql.dll
+/home/RogerAlbuquerque/Desktop/Documentos_para_vagas/testes_C#/APICatalogo/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/RogerAlbuquerque/Desktop/Documentos_para_vagas/testes_C#/APICatalogo/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/RogerAlbuquerque/Desktop/Documentos_para_vagas/testes_C#/APICatalogo/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/RogerAlbuquerque/Desktop/Documentos_para_vagas/testes_C#/APICatalogo/bin/Debug/net7.0/System.CodeDom.dll
+/home/RogerAlbuquerque/Desktop/Documentos_para_vagas/testes_C#/APICatalogo/obj/Debug/net7.0/APICatalogo.csproj.AssemblyReference.cache
+/home/RogerAlbuquerque/Desktop/Documentos_para_vagas/testes_C#/APICatalogo/obj/Debug/net7.0/APICatalogo.GeneratedMSBuildEditorConfig.editorconfig
+/home/RogerAlbuquerque/Desktop/Documentos_para_vagas/testes_C#/APICatalogo/obj/Debug/net7.0/APICatalogo.AssemblyInfoInputs.cache
+/home/RogerAlbuquerque/Desktop/Documentos_para_vagas/testes_C#/APICatalogo/obj/Debug/net7.0/APICatalogo.AssemblyInfo.cs
+/home/RogerAlbuquerque/Desktop/Documentos_para_vagas/testes_C#/APICatalogo/obj/Debug/net7.0/APICatalogo.csproj.CoreCompileInputs.cache
+/home/RogerAlbuquerque/Desktop/Documentos_para_vagas/testes_C#/APICatalogo/obj/Debug/net7.0/APICatalogo.MvcApplicationPartsAssemblyInfo.cs
+/home/RogerAlbuquerque/Desktop/Documentos_para_vagas/testes_C#/APICatalogo/obj/Debug/net7.0/APICatalogo.MvcApplicationPartsAssemblyInfo.cache
+/home/RogerAlbuquerque/Desktop/Documentos_para_vagas/testes_C#/APICatalogo/obj/Debug/net7.0/staticwebassets/msbuild.APICatalogo.Microsoft.AspNetCore.StaticWebAssets.props
+/home/RogerAlbuquerque/Desktop/Documentos_para_vagas/testes_C#/APICatalogo/obj/Debug/net7.0/staticwebassets/msbuild.build.APICatalogo.props
+/home/RogerAlbuquerque/Desktop/Documentos_para_vagas/testes_C#/APICatalogo/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.APICatalogo.props
+/home/RogerAlbuquerque/Desktop/Documentos_para_vagas/testes_C#/APICatalogo/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.APICatalogo.props
+/home/RogerAlbuquerque/Desktop/Documentos_para_vagas/testes_C#/APICatalogo/obj/Debug/net7.0/staticwebassets.pack.json
+/home/RogerAlbuquerque/Desktop/Documentos_para_vagas/testes_C#/APICatalogo/obj/Debug/net7.0/staticwebassets.build.json
+/home/RogerAlbuquerque/Desktop/Documentos_para_vagas/testes_C#/APICatalogo/obj/Debug/net7.0/staticwebassets.development.json
+/home/RogerAlbuquerque/Desktop/Documentos_para_vagas/testes_C#/APICatalogo/obj/Debug/net7.0/scopedcss/bundle/APICatalogo.styles.css
+/home/RogerAlbuquerque/Desktop/Documentos_para_vagas/testes_C#/APICatalogo/obj/Debug/net7.0/APICatalogo.csproj.CopyComplete
+/home/RogerAlbuquerque/Desktop/Documentos_para_vagas/testes_C#/APICatalogo/obj/Debug/net7.0/APICatalogo.dll
+/home/RogerAlbuquerque/Desktop/Documentos_para_vagas/testes_C#/APICatalogo/obj/Debug/net7.0/refint/APICatalogo.dll
+/home/RogerAlbuquerque/Desktop/Documentos_para_vagas/testes_C#/APICatalogo/obj/Debug/net7.0/APICatalogo.pdb
+/home/RogerAlbuquerque/Desktop/Documentos_para_vagas/testes_C#/APICatalogo/obj/Debug/net7.0/APICatalogo.genruntimeconfig.cache
+/home/RogerAlbuquerque/Desktop/Documentos_para_vagas/testes_C#/APICatalogo/obj/Debug/net7.0/ref/APICatalogo.dll
