@@ -2,11 +2,14 @@ using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 namespace APICatalogo.Models;
 
-    public class Produto
+/*
+    Essa classe é a parte de "Code First" do Entity Framework, que basicamente vai pegar as prpoedades dessa classe, e de acordo com elas criar as linhas e colunas para salvar os dados nas tabelas no banco de dados MySQL utilizando o que é chamado de "Migrations".
+*/
+    public class Produto    
     {
 
         [Key]
-        public int ProdutoId { get; set; }
+        public int ProdutoId { get; set; }      //Se o nome tem "Id" no final, é para o EF saber que é a primary key na tabela.
 
         [Required]
         [StringLength(80)]

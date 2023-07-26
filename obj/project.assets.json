@@ -1473,24 +1473,25 @@
     ]
   },
   "packageFolders": {
-    "/home/RogerAlbuquerque/.nuget/packages/": {}
+    "/home/roger/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/RogerAlbuquerque/Desktop/Documentos_para_vagas/testes_C#/APICatalogo/APICatalogo.csproj",
+      "projectUniqueName": "/home/roger/Documents/Projects/APICatalogo-Precos/APICatalogo.csproj",
       "projectName": "APICatalogo",
-      "projectPath": "/home/RogerAlbuquerque/Desktop/Documentos_para_vagas/testes_C#/APICatalogo/APICatalogo.csproj",
-      "packagesPath": "/home/RogerAlbuquerque/.nuget/packages/",
-      "outputPath": "/home/RogerAlbuquerque/Desktop/Documentos_para_vagas/testes_C#/APICatalogo/obj/",
+      "projectPath": "/home/roger/Documents/Projects/APICatalogo-Precos/APICatalogo.csproj",
+      "packagesPath": "/home/roger/.nuget/packages/",
+      "outputPath": "/home/roger/Documents/Projects/APICatalogo-Precos/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/RogerAlbuquerque/.nuget/NuGet/NuGet.Config"
+        "/home/roger/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
+        "/usr/share/dotnet/sdk/7.0.306/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -1549,7 +1550,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.306/RuntimeIdentifierGraph.json"
       }
     }
   }
