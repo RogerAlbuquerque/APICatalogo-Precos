@@ -43,7 +43,9 @@ namespace APICatalogo.Controllers
         public ActionResult Post(Produto produto)
         {
             if(produto is null)
-            {return BadRequest("Produto não encontrado");}
+            {
+                return BadRequest("Produto não encontrado");
+            }
             _context.Produtos?.Add(produto);							// "Produto" é o model "produto" é o objeto
             _context.SaveChanges();
 

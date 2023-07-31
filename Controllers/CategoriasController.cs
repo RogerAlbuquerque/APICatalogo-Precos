@@ -15,7 +15,7 @@ namespace APICatalogo.Controllers
             _context = context;
         }
 
-         [HttpGet("produtos")]
+         [HttpGet("produtos")]  
         public ActionResult<IEnumerable<Categoria>> Get()
         {
             return _context.Categorias.AsNoTracking().ToList();           
